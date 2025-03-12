@@ -16,11 +16,12 @@ This repository uses The MIT License (MIT)
 
 # Current Version
 
-
+* 0.1 | 2024-03-12
+    * Added 4 C# scripts that are useable in 3D Unity projects.
 
 # Version History
 
-All of the version history is [here](https://github.com/styslix7/Stellar-Deception/blob/main/ReadMe/VersionLog.md).
+All of the version history is [here](https://github.com/styslix7/CS-Scripts-For-Unity/blob/main/ReadMe/VersionLog.md).
 
 # Installation
 
